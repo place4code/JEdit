@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Editor start = new Editor("Editor");
+        Editor editor = new Editor("JEdit - RTF editor");
     }
 }
